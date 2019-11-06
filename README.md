@@ -1,1 +1,1 @@
- [thus is my link for travel 1](https://danielbirnbaum.github.io/Travel1/docs/travel.html)
+ [thus is my link for travel 1](https://danielbirnbaum.github.io/Travel1/travel.html)
